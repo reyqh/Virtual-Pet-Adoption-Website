@@ -1,0 +1,193 @@
+#ppg1 {
+   font-family: sans-serif;
+   font-style: italic;
+}
+
+#h1pg1{
+    color:rgba(255,215,0);
+    background-color: gold;
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    background-image: url(1000_F_134967501_4wlAT3dAr0pQavpn9L19msTcSzXQpa6k.jpg);
+}
+
+#page1{
+    background-image: url(background.avif);
+     background-size: cover;
+ }
+
+#h2pg1{
+    color: gold;
+    text-align: right;
+    transform: translateY(100px);
+    box-sizing: content-box;
+ }
+
+ #h1pg2{
+    color: rgba(0, 0, 0);
+    padding: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #6504aa;
+    background-image: url(cute-playful-footprint-pattern-background-fauna-fun_1017-44713.avif)
+}
+#page2{
+    background-color: rgb(216, 216, 216);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #6504aa;
+    color: white;
+    border: 1px solid #ddd;
+}
+table, tr, td{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid #63625c;
+    padding: 8px;
+    
+}
+#imgPets{
+     height: 275px;
+     width: 300px;
+     object-fit: cover;
+}
+
+#imgPets2{
+    height: 275px;
+    width: 300px;
+    object-fit: cover;
+}
+
+#imgPets3{
+    height: 275px;
+    width: 300px;
+    object-fit: cover;
+}
+
+#imgPets4{
+    height: 275px;
+    width: 300px;
+    object-fit: cover;
+}
+
+#h2page2{
+    color: white;
+    background-color: #6504aa;
+}
+#P-page2{
+    font-size: large;
+}
+#img2{
+    height: 310px;
+    width: 370px;
+    border: solid black;
+}
+
+#footerpg2{
+    text-align: center;
+    background-color: #6504aa;
+}
+#Apage2{
+    color: #ddd;
+}
+
+#page3{
+    background-color: lightskyblue;
+}
+
+#h1pg3{
+    color:rgb(45, 153, 199);
+    background-color: rgb(49, 113, 196);
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+}
+#h2pg3{
+    font-size: large;
+}
+form{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 5;
+}
+
+#idpg3{
+    font: bold;
+    color: solid black;
+}
+
+#idpage4{
+    background-color: lightblue;
+}
+
+#h1page4{
+    text-align: center;
+    color: #bd93da;
+    background-image: url(background\ img.jpg);
+    padding: 30px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(38, 149, 190);
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 150%;
+  }
+  
+#footerpage3{
+    text-align: center;
+    padding: 50px;
+    background-image: url(bM2WavU.webp);
+    color: white;
+  }
+
+#Apage3{
+    text-align: center;
+}
+
+#h1page5{
+    text-align: center;
+    color: #e8e8e8;
+    background-image: url(bM2WavU.webp) ;
+    padding: 30px;
+    border-style: solid;
+    border-width: 5px;
+}
+#idpage5{
+    background-image: url(bM2WavU.webp);
+    background-size: cover;
+}
+#page5{
+    font: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+#footerpage5{
+    text-align: center;
+    padding: 50px;
+    background-image: url(bM2WavU.webp);
+    color: rgb(35, 165, 216)
+}
